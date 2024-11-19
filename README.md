@@ -1,6 +1,6 @@
 Hello, I am **Naga Venkata Sahithya Alla**!
 
-🎯 Passionate Data Analyst/Data Scientist with a focus on using AI/ML for solving real-world problems.  
+🎯 Passionate Data Analyst/Data Scientist/Program Manager with a focus on using AI/ML for solving real-world problems.  
 🔧 Proficient in Python, SQL, Power BI, NLP, and Machine Learning.  
 📊 Enjoys developing insightful, actionable data visualizations and models.  
 Current Interest/Learning more about - Large Language Models (LLMs).  
